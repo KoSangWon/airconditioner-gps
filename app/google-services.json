@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887121074163",
+    "firebase_url": "https://gps-airconditioner.firebaseio.com",
+    "project_id": "gps-airconditioner",
+    "storage_bucket": "gps-airconditioner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887121074163:android:f8c6165a44d55d92532486",
+        "android_client_info": {
+          "package_name": "com.example.airconditioner_gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887121074163-3lvheetk4pb9vkghturee3dqtfcgshtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8O4Kdc96xbUt7G_Je7VmJtUIQcHv_YM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887121074163-3lvheetk4pb9vkghturee3dqtfcgshtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
